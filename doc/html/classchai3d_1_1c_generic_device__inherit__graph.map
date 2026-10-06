@@ -1,0 +1,17 @@
+<map id="chai3d::cGenericDevice" name="chai3d::cGenericDevice">
+<area shape="rect" id="Node000001" title="This class implements an abstract class for hardware devices." alt="" coords="5,129,164,155"/>
+<area shape="rect" id="Node000002" href="$classchai3d_1_1c_generic_haptic_device.html" title="This class implements a base class for haptic devices." alt="" coords="212,104,407,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,129,211,125,212,130,178,134"/>
+<area shape="rect" id="Node000008" href="$classchai3d_1_1c_x_touch_controller.html" title="This class implements support for the X&#45;Touch midi controller." alt="" coords="223,153,395,179"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="178,149,224,154,223,159,178,155"/>
+<area shape="rect" id="Node000003" href="$classchai3d_1_1c_delta_device.html" title="This class implements an interface to all Force Dimension and Novint haptic devices." alt="" coords="471,5,614,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,95,394,67,454,40,488,28,489,33,456,44,396,72,345,99"/>
+<area shape="rect" id="Node000004" href="$classchai3d_1_1c_leap_device.html" title="This class implements an interface to the Leap Motion tracker interface." alt="" coords="472,55,613,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="383,99,481,77,482,83,384,104"/>
+<area shape="rect" id="Node000005" href="$classchai3d_1_1c_my_custom_device.html" title="This class is a interface to support custom haptic devices (template)." alt="" coords="455,104,631,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="420,114,455,114,455,119,420,119"/>
+<area shape="rect" id="Node000006" href="$classchai3d_1_1c_phantom_device.html" title="This class implements an interface to all 3D&#45;System Phantom haptic devices." alt="" coords="460,153,625,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="384,130,482,151,481,156,383,135"/>
+<area shape="rect" id="Node000007" href="$classchai3d_1_1c_sixense_device.html" title="This class implements an interface to the Sixense Razor Hydra magnetic tracker interface." alt="" coords="463,203,623,228"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="395,132,408,138,424,151,433,164,442,176,456,188,483,200,481,205,453,192,438,180,429,167,420,154,405,143,393,137"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="chai3d::cGenericHapticDevice" name="chai3d::cGenericHapticDevice">
+<area shape="rect" id="Node000001" title="This class implements a base class for haptic devices." alt="" coords="212,104,407,129"/>
+<area shape="rect" id="Node000003" href="$classchai3d_1_1c_delta_device.html" title="This class implements an interface to all Force Dimension and Novint haptic devices." alt="" coords="471,5,614,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="342,95,394,67,454,40,488,28,489,33,456,44,396,72,345,99"/>
+<area shape="rect" id="Node000004" href="$classchai3d_1_1c_leap_device.html" title="This class implements an interface to the Leap Motion tracker interface." alt="" coords="472,55,613,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="383,99,481,77,482,83,384,104"/>
+<area shape="rect" id="Node000005" href="$classchai3d_1_1c_my_custom_device.html" title="This class is a interface to support custom haptic devices (template)." alt="" coords="455,104,631,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="420,114,455,114,455,119,420,119"/>
+<area shape="rect" id="Node000006" href="$classchai3d_1_1c_phantom_device.html" title="This class implements an interface to all 3D&#45;System Phantom haptic devices." alt="" coords="460,153,625,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="384,130,482,151,481,156,383,135"/>
+<area shape="rect" id="Node000007" href="$classchai3d_1_1c_sixense_device.html" title="This class implements an interface to the Sixense Razor Hydra magnetic tracker interface." alt="" coords="463,203,623,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="345,134,396,162,456,189,489,200,488,205,454,194,394,167,342,139"/>
+<area shape="rect" id="Node000002" href="$classchai3d_1_1c_generic_device.html" title="This class implements an abstract class for hardware devices." alt="" coords="5,104,164,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,114,212,114,212,119,178,119"/>
+</map>
